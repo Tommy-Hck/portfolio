@@ -55,6 +55,7 @@
       --color-button-muted: 249, 239, 6;
     }
   }
+}
   .dark {
     --color-text-base: 255, 255, 255;
     --color-text-muted: 150, 150, 150;
