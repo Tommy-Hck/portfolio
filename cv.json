@@ -30,12 +30,12 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Openclassrooms",
+      "position": "Student Web Developer",
+      "location_type": "Remote",
+      "location": "",
+      "url": "https://openclassrooms.com/fr/",
+      "startDate": "2021-03-01",
       "endDate": null,
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
