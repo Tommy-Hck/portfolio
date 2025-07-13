@@ -18,13 +18,8 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
+        "username": "Thomas Huylebroeck",
         "url": "https://linkedin.com/in/thomas-huylebroeck-1562a215a/"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
       },
       {
         "network": "GitHub",
