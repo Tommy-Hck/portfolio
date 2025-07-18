@@ -2,11 +2,11 @@
   "basics": {
     "name": "Thomas Huylebroeck",
     "label": "Junior Full Stack Developer",
-    "image": "",
+    "image": "./public/me_avatar.jpg",
     "email": "huylebroeckt@gmail.com",
     "phone": "+33-7-61-47-52-01",
     "url": "https://tommy-hck.github.io/portfolio/",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Junior Full Stack Developer, I would like to learn building applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
       "address": "",
