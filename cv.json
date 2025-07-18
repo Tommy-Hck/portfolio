@@ -36,7 +36,7 @@
       "location": "",
       "url": "https://openclassrooms.com/fr/",
       "startDate": "2021-03-01",
-      "endDate": "2023-11-30",
+      "endDate": "2023-12-30",
       "summary": "Learning HTML, CSS, JavaScript, and various frameworks to build responsive and interactive websites and webapps. Completing projects to demonstrate skills in front-end and back-end development and search engine optimization.",
       "highlights": [
         "Improved website performance by optimizing code"
@@ -92,49 +92,36 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Openclassrooms",
+      "url": "https://openclassrooms.com/fr/",
+      "area": "Web Development",
+      "studyType": "Bac +2",
+      "startDate": "2021-03-01",
+      "endDate": "2023-12-30",
+      "score": "",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
+      "institution": "Oo2 formation",
+      "url": "https://www.oo2.fr/",
+      "area": "Agile Methodologies",
+      "studyType": "Certification",
+      "startDate": "2024-03",
+      "endDate": "2024-04",
+      "score": "",
       "courses": [
         "SE201 - Advanced Software Development",
         "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
     {
       "name": "Full Stack Web Development",
-      "date": "2023-05-01",
+      "date": "2024-18-01",
       "issuer": "Openclassrooms",
       "url": "https://openclassrooms.com/fr/"
     }
