@@ -57,21 +57,24 @@
         "Node.js",
         "Express",
         "MongoDB",
+        "Postman",
+        "Figma",
         "Git",
         "GitHub"
       ]
     },
   
     {
-      "name": "ISTQB AGILE",
+      "name": "Oo2 formation",
       "position": "Student",
       "location_type": "Remote",
-      "location": "Paris, France",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "",
+      "url": "https://www.oo2.fr/",
+      "startDate": "2024-03",
+      "endDate": "2024-04",
+      "summary": "Discovering Agile methodologies and practices, focusing on Scrum frameworks. Gaining knowledge in Agile project management and team collaboration. Learning testing strategies in Agile environments.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Completed Agile certification course with a focus on Scrum methodologies"
       ],
       "skills": [
         "HTML",
