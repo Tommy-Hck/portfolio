@@ -101,19 +101,10 @@
   "skills": [
     {
       "name": "Figma",
-      "level": "Expert",
+      "level": "Intermediate",
       "keywords": [
         "Design",
         "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
       ]
     },
     {
@@ -144,26 +135,6 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
       "name": "Node",
       "level": "Intermediate",
       "keywords": [
@@ -174,18 +145,8 @@
       ]
     },
     {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
       "name": "Git",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Version Control",
         "Collaboration",
@@ -203,14 +164,12 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Node.js",
       "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "React Framework"
       ]
     },
     {
@@ -226,12 +185,12 @@
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "English",
+      "fluency": "advanced"
     }
   ],
   "interests": [
