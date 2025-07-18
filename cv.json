@@ -205,13 +205,21 @@
       ]
     },
     {
-      "name": "React",
+      "name": "GitHub",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Intermediate",
+      "keywords": [
+        "Database",
+        "Backend"
       ]
     }
   ],
