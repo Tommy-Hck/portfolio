@@ -220,16 +220,6 @@
       "github": "https://github.com"
     },
     {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
       "name": "Task Manager",
       "isActive": true,
       "description": "A simple task management app to keep track of daily tasks.",
