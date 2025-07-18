@@ -2,7 +2,7 @@
   "basics": {
     "name": "Thomas Huylebroeck",
     "label": "Junior Full Stack Developer",
-    "image": "./themes/82054362.jpg",
+    "image": "",
     "email": "huylebroeckt@gmail.com",
     "phone": "+33-7-61-47-52-01",
     "url": "https://tommy-hck.github.io/portfolio/",
@@ -37,7 +37,7 @@
       "url": "https://openclassrooms.com/fr/",
       "startDate": "2021-03-01",
       "endDate": "2023-11-30",
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Learning HTML, CSS, JavaScript, and various frameworks to build responsive and interactive websites and webapps. Completing projects to demonstrate skills in front-end and back-end development and search engine optimization.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
