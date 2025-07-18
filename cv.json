@@ -2,7 +2,7 @@
   "basics": {
     "name": "Thomas Huylebroeck",
     "label": "Junior Full Stack Developer",
-    "image": "./public/me_avatar.jpg",
+    "image": "/public/me_avatar.jpg",
     "email": "huylebroeckt@gmail.com",
     "phone": "+33-7-61-47-52-01",
     "url": "https://tommy-hck.github.io/portfolio/",
