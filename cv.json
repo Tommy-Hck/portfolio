@@ -50,17 +50,23 @@
         "Developing and maintaining web applications using JavaScript, HTML, and CSS."
       ],
       "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
         "React",
-        "Tailwind",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Git",
         "GitHub"
       ]
     },
   
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "ISTQB AGILE",
+      "position": "Student",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
+      "location": "Paris, France",
       "startDate": "2022-06-01",
       "endDate": "2022-12-01",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
