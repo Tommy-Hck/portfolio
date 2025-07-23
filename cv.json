@@ -219,25 +219,25 @@
   ],
   "projects": [
     {
-      "name": "Hot Ones",
-      "isActive": true,
+      "name": "Piiquante",
+      "isActive": false,
       "description": "Build a secured API for a gastronomic review app ",
       "highlights": [
         "Built with Node.js and MongoDB"
       ],
       "url": "https://github.com/Tommy-Hck/ThomasHuylebroeck_6_14102023",
-      "github": "https://github.com"
+      "github": "https://github.com/Tommy-Hck"
     },
     {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "name": "Kasa",
+      "isActive": false,
+      "description": "Build a single-page application for a real estate agency",
       "highlights": [
-        "Built with Node.js and MongoDB",
+        "Built with React and React Router",
         "User authentication and CRUD operations"
       ],
-      "url": "https://github.com/Tommy-Hck/ThomasHuylebroeck_6_14102023",
-      "github": "https://github.com"
+      "url": "https://tommy-hck.github.io/ThomasHuylebroeck_7_21112023/",
+      "github": "https://github.com/Tommy-Hck"
     }
   ]
 }
