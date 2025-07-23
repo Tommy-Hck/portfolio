@@ -219,11 +219,11 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Hot Ones",
       "isActive": true,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "description": "Build a secured API for a gastronomic review app ",
       "highlights": [
-        "Built with React and Tailwind CSS"
+        "Built with Node.js and MongoDB"
       ],
       "url": "https://tommy-hck.github.io/portfolio/",
       "github": "https://github.com"
